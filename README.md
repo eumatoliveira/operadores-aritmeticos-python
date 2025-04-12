@@ -1,5 +1,6 @@
 # Operadores Aritméticos em Python
 
+https://github.com/eumatoliveira/operadores-aritmeticos-python/blob/main/06c57b5dcb68df84207257886ca164b8.jpg
 
 
 Operadores aritméticos são usados para realizar operações matemáticas em números. Os operadores aritméticos mais comuns incluem:
