@@ -1,9 +1,8 @@
 # Operadores Aritméticos em Python
 
-![Operadores](https://github.com/eumatoliveira/operadores-aritmeticos-python/blob/main/06c57b5dcb68df84207257886ca164b8.jpg)
-
-
 Operadores aritméticos são usados para realizar operações matemáticas em números. Os operadores aritméticos mais comuns incluem:
+
+![Operadores](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dor8FvL3zPLI&psig=AOvVaw1HF3mz_APs7xdwqjfDWlfE&ust=1744549218850000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNioj7PG0owDFQAAAAAdAAAAABAE)
 
 - **Adição (+)**  
 - **Subtração (-)**  
@@ -15,6 +14,8 @@ Operadores aritméticos são usados para realizar operações matemáticas em n�
 - **Raiz quadrada e raiz cúbica**
 
 ## Exemplo de Operadores Aritméticos em Python
+
+![Operadores](https://github.com/eumatoliveira/operadores-aritmeticos-python/blob/main/06c57b5dcb68df84207257886ca164b8.jpg)
 
 ```python
 # Multiplicação de 2 com a soma de 0 e 2
