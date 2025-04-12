@@ -2,7 +2,7 @@
 
 Operadores aritméticos são usados para realizar operações matemáticas em números. Os operadores aritméticos mais comuns incluem:
 
-![Operadores](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dor8FvL3zPLI&psig=AOvVaw1HF3mz_APs7xdwqjfDWlfE&ust=1744549218850000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNioj7PG0owDFQAAAAAdAAAAABAE)
+![Operadores](https://github.com/eumatoliveira/operadores-aritmeticos-python/blob/main/OperadoresBasicos.png)
 
 - **Adição (+)**  
 - **Subtração (-)**  
